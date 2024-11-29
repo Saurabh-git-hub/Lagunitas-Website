@@ -14,6 +14,12 @@
 
 ---
 
+## 🌐 **Live Demo**  
+
+**[🔗 View Live Demo](https://saurabh-git-hub.github.io/Lagunitas-Website/)**   
+
+---
+
 ## 🔥 **Features**  
 
 1. 🎨 **Beautiful Design**  
@@ -74,14 +80,6 @@ To enhance performance and avoid CORS issues, run the project using a live serve
 npx live-server  
 ```  
 
----
-
-## 🌐 **Live Demo**  
-
-**[🔗 View Live Demo](https://saurabh-git-hub.github.io/Lagunitas-Website/)**   
-
----
-
 ## 💼 **Portfolio**  
 
 Visit my portfolio to see more of my projects: **[Saurabh's Portfolio](https://saurabh-portfolio-link.com)**  
@@ -133,3 +131,4 @@ Feel free to reach out for any queries or suggestions:
 ---
 Thanks 🙂
 ---
+# Lagunitas-Website
