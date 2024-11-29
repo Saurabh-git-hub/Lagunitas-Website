@@ -126,7 +126,7 @@ For more details, visit: [Creative Commons License](https://creativecommons.org/
 
 Feel free to reach out for any queries or suggestions:  
 - **Developer:** Saurabh  
-- **Email:** [saurabh20002004@gmail.com]  
+- **Email:** saurabh20002004@gmail.com 
 
 ---
 Thanks 🙂
