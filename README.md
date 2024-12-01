@@ -80,12 +80,6 @@ To enhance performance and avoid CORS issues, run the project using a live serve
 npx live-server  
 ```  
 
-## 💼 **Portfolio**  
-
-Visit my portfolio to see more of my projects: **[Saurabh's Portfolio](https://saurabh-portfolio-link.com)**  
-
----
-
 ## 🤝 **Contributions**  
 
 We welcome contributions to make this project even better!  
@@ -107,26 +101,28 @@ We welcome contributions to make this project even better!
 
 ---
 
-## 📝 **License**  
-
-This project is licensed to **Saurabh**, the original creator, under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
-
-You are free to:  
-- Share: Copy and redistribute the material in any medium or format.  
-- Adapt: Remix, transform, and build upon the material for any purpose, even commercially.  
-
-Under the following terms:  
-- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
-
-For more details, visit: [Creative Commons License](https://creativecommons.org/licenses/by/4.0/)  
-
 ---
-
 ## 📧 **Contact**  
 
 Feel free to reach out for any queries or suggestions:  
 - **Developer:** Saurabh  
-- **Email:** saurabh20002004@gmail.com 
+- **Email:** saurabh20002004@gmail.com  
+- 🌐 **Portfolio:** [saurabh-portfolio.com](https://saurabh-git-hub.github.io/Saurabh-Portfolio/) 
+
+---
+
+## 📝 **License**
+
+This project is licensed to **Saurabh**, the original creator, under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+
+You are free to:
+- Share: Copy and redistribute the material in any medium or format.
+- Adapt: Remix, transform, and build upon the material for any purpose, even commercially.  
+
+Under the following terms:
+- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
+
+For more details, visit: [Creative Commons License](https://creativecommons.org/licenses/by/4.0/)  
 
 ---
 Thanks 🙂
